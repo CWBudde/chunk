@@ -14,3 +14,7 @@ coverage.out
 
 # Dependency directories (remove the # if you or your IDE creates them)
 # vendor/
+
+# AI Agents
+.claude
+CLAUDE.md
